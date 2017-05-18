@@ -1,0 +1,274 @@
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\ApplicationInsights.config
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\csc.exe
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\vbc.exe
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\MessageBoard.dll.config
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\MessageBoard.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\MessageBoard.pdb
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Antlr3.Runtime.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\EntityFramework.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\EntityFramework.SqlServer.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.DependencyCollector.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.Web.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.WindowsServer.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.ApplicationInsights.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Google.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Newtonsoft.Json.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Owin.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Helpers.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Mvc.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Optimization.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Razor.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\WebGrease.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.DependencyCollector.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.Web.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.WindowsServer.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.ApplicationInsights.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Helpers.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Mvc.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Optimization.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Razor.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Antlr3.Runtime.pdb
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Newtonsoft.Json.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\EntityFramework.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\EntityFramework.SqlServer.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Google.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\obj\Debug\MessageBoard.csprojResolveAssemblyReference.cache
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\obj\Debug\MessageBoard.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\obj\Debug\MessageBoard.pdb
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.Web.Common.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.Web.Mvc.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\WebActivatorEx.dll
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.Web.Common.xml
+D:\Documents\Source\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.Web.Mvc.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\ApplicationInsights.config
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\csc.exe
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\vbc.exe
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\MessageBoard.dll.config
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\MessageBoard.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\MessageBoard.pdb
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Antlr3.Runtime.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\EntityFramework.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\EntityFramework.SqlServer.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.DependencyCollector.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.Web.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.WindowsServer.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.ApplicationInsights.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Google.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Newtonsoft.Json.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.Web.Common.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.Web.Mvc.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Owin.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Helpers.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Mvc.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Optimization.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Razor.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\WebActivatorEx.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\WebGrease.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.DependencyCollector.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.Web.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.WindowsServer.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.ApplicationInsights.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.Web.Common.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.Web.Mvc.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Helpers.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Mvc.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Optimization.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Razor.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Antlr3.Runtime.pdb
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Newtonsoft.Json.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\EntityFramework.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\EntityFramework.SqlServer.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Google.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\obj\Debug\MessageBoard.dll
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\obj\Debug\MessageBoard.pdb
+D:\Documents\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\obj\Debug\MessageBoard.csprojResolveAssemblyReference.cache
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\obj\Debug\MessageBoard.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\obj\Debug\MessageBoard.pdb
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\ApplicationInsights.config
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\csc.exe
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\vbc.exe
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\VBCSCompiler.exe
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\MessageBoard.dll.config
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\MessageBoard.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\MessageBoard.pdb
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Antlr3.Runtime.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\EntityFramework.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\EntityFramework.SqlServer.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.Web.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Newtonsoft.Json.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.Web.Common.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.Web.Mvc.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Owin.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Net.Http.Formatting.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Helpers.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Http.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Http.WebHost.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Mvc.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Optimization.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Razor.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\WebActivatorEx.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\WebGrease.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.Web.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.Web.Common.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Ninject.Web.Mvc.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Net.Http.Formatting.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Http.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Http.WebHost.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Helpers.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Mvc.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Optimization.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.Razor.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Antlr3.Runtime.pdb
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Newtonsoft.Json.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\EntityFramework.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\EntityFramework.SqlServer.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\mguinane.UK\Google Drive\Code\DemoProjects\MessageBoard\MessageBoard\obj\Debug\MessageBoard.csprojResolveAssemblyReference.cache

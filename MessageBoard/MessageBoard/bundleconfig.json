@@ -1,0 +1,28 @@
+[
+  {
+    "outputFileName": "Scripts/custom.min.js",
+    "inputFiles": [
+      "Scripts/custom.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/bundle.js",
+    "inputFiles": [
+      "Scripts/easing.js",
+      "Scripts/flexslider.js"
+    ]
+  },
+  {
+    "outputFileName": "Scripts/easeflex.js",
+    "inputFiles": [
+      "Scripts/easing.js",
+      "Scripts/flexslider.js"
+    ]
+  },
+  {
+    "outputFileName": "js/home-index.min.js",
+    "inputFiles": [
+      "js/home-index.js"
+    ]
+  }
+]
