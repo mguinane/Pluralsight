@@ -12,7 +12,8 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "MailSettings__ToAddress": "mguinane@hrgtec.com",
+        "ASPNETCORE_ENVIRONMENT": "Production"
       }
     },
     "TheWorld": {
