@@ -6,3 +6,6 @@ Code projects for Pluralsight courses
 
 ## TheWorld
 [Building a Web App with ASP.NET Core, MVC 6, EF Core, and Angular](https://app.pluralsight.com/library/courses/aspdotnetcore-efcore-bootstrap-angular-web-app/table-of-contents)
+
+## CityInfo
+[Building Your First API with ASP.NET Core](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/table-of-contents)
