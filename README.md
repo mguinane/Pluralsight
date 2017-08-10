@@ -9,3 +9,6 @@ Code projects for Pluralsight courses
 
 ## CityInfo
 [Building Your First API with ASP.NET Core](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/table-of-contents)
+
+## MyCodeCamp
+[Implementing and Securing an API with ASP.NET Core](https://app.pluralsight.com/library/courses/aspdotnetcore-implementing-securing-api/table-of-contents)
