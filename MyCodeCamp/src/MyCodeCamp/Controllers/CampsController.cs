@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using MyCodeCamp.Data;
@@ -59,6 +61,7 @@ namespace MyCodeCamp.Controllers
         }
 
         [HttpPost]
+        [Authorize(Policy = "SuperUsers")]
         public async Task<IActionResult> Post([FromBody] CampModel model)
         {
             try
