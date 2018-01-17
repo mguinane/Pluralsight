@@ -17,3 +17,5 @@ Code projects for Pluralsight courses
 [Become a Full-stack .NET Developer](https://app.pluralsight.com/library/courses/full-stack-dot-net-developer-fundamentals/table-of-contents)
 
 [Become a Full-stack .NET Developer - Advanced Topics](https://app.pluralsight.com/library/courses/full-stack-dot-net-developer/table-of-contents)
+
+[Become a Full-stack .NET Developer - Architecture and Testing](https://app.pluralsight.com/library/courses/full-stack-dot-net-developer-architecture-testing/table-of-contents)
