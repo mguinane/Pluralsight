@@ -37,6 +37,13 @@ span.field-validation-error {
 
 /* Bootstrap overrides */
 
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  src: url('fonts/glyphicons-halflings-regular.eot');
+  src: url('fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('fonts/glyphicons-halflings-regular.woff') format('woff'), url('fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+}
+
+
 .popover {
     box-shadow: none;
     -webkit-box-shadow: none;
@@ -172,7 +179,9 @@ h6,
             }
 
             .genre {
-                font-size: 15px;
+                font-size: 14px;
+                display: block;
+                margin-bottom: 4px;
             }
         }
 
@@ -213,7 +222,7 @@ h6,
 }
 
 #searchGigs {
-    width: 300px;
+    width: 400px;
     
     input {
         max-width: none;
